@@ -1,6 +1,6 @@
 # demo-repo
 Hello Git!
 <br>
-This is my first GitHub Repository
+This is my first GitHub Repository.
 <br>
-Hello World
+Welcome 😀😀😀
